@@ -1,0 +1,20 @@
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\bin\Debug\FTPZ.exe.config
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\bin\Debug\FTPZ.exe
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\bin\Debug\FTPZ.pdb
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.Form1.resources
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.exe
+C:\Users\Dmitry\source\repos\FTPZ\FTPZ\obj\Debug\FTPZ.pdb
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\bin\Debug\FTPZ.exe.config
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\bin\Debug\FTPZ.exe
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\bin\Debug\FTPZ.pdb
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.csproj.AssemblyReference.cache
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.Form1.resources
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.Properties.Resources.resources
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.csproj.GenerateResource.cache
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.csproj.CoreCompileInputs.cache
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.exe
+C:\Users\Alesia\Downloads\Telegram Desktop\FTPZ\FTPZ\FTPZ\obj\Debug\FTPZ.pdb
